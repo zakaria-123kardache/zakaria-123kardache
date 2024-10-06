@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [C_workshop](https://github.com/zakaria-123kardache/solutions_c_workshop)
 
-- 🌱 I’m currently learning **MREN Stack**
+- 🌱 I’m currently learning **C language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zakaria-123kardache?tab=repositories](https://github.com/zakaria-123kardache?tab=repositories)
 
