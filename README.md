@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ismail Lafhiel</h1>
-<h3 align="center">Full stack web developer</h3>
+<h1 align="center">Hi 👋, I'm Zakaria Kardache</h1>
+<h3 align="center">Software leaner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-123kardache" /> </p>
 
@@ -11,14 +11,14 @@
 
 - 💬 Ask me about **C language**
 
-- 📫 How to reach me **lafhiel.ismail.contact@gmail.com**
+- 📫 How to reach me **kardachezakaria45@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ismail-lafhiel/](https://www.linkedin.com/in/ismail-lafhiel/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/zakaria-kardache-59339a21a/](Linkedin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ismail lafhiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail lafhiel" height="30" width="40" /></a>
-<a href="https://discord.gg/ismairu#7937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismairu#7937" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zakaria-kardache-59339a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail lafhiel" height="30" width="40" /></a>
+<a href="https://discord.gg/karda_sch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismairu#7937" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
