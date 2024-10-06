@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria Kardache</h1>
-<h3 align="center">Software leaner</h3>
+<h3 align="center">Software learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-123kardache" /> </p>
 
